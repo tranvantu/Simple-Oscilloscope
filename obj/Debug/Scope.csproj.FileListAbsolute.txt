@@ -1,0 +1,17 @@
+F:\DATN2016\Scope\Scope\obj\Debug\Scope.MainForm.resources
+F:\DATN2016\Scope\Scope\obj\Debug\Scope.Properties.Resources.resources
+F:\DATN2016\Scope\Scope\obj\Debug\Scope.csproj.GenerateResource.Cache
+F:\DATN2016\Scope\Scope\obj\Debug\Scope.exe
+F:\DATN2016\Scope\Scope\obj\Debug\Scope.pdb
+F:\DATN2016\Scope\Scope\Scope.exe.config
+F:\DATN2016\Scope\Scope\Scope.exe
+F:\DATN2016\Scope\Scope\Scope.pdb
+F:\DATN2016\Scope\Scope\obj\Debug\Scope.csprojResolveAssemblyReference.cache
+C:\Users\TranVanTu\Desktop\ScopeSouceCode\Scope.exe.config
+C:\Users\TranVanTu\Desktop\ScopeSouceCode\obj\Debug\Scope.exe
+C:\Users\TranVanTu\Desktop\ScopeSouceCode\obj\Debug\Scope.pdb
+C:\Users\TranVanTu\Desktop\ScopeSouceCode\obj\Debug\Scope.MainForm.resources
+C:\Users\TranVanTu\Desktop\ScopeSouceCode\obj\Debug\Scope.Properties.Resources.resources
+C:\Users\TranVanTu\Desktop\ScopeSouceCode\obj\Debug\Scope.csproj.GenerateResource.Cache
+C:\Users\TranVanTu\Desktop\ScopeSouceCode\Scope.exe
+C:\Users\TranVanTu\Desktop\ScopeSouceCode\Scope.pdb
