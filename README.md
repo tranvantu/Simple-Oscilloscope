@@ -1,4 +1,4 @@
-# Simple-Oscilloscope
+# DIY-USB-Oscilloscope
 Phần mềm hiển thị dạng sóng Viết bằng C#
 .NET Framework 4.5.2 <br>
 Sơ đồ nguyên lý và Sơ đồ mạch in: 
